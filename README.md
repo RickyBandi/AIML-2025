@@ -12,6 +12,8 @@
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A5.pdf">LAB 05</a> :  Implement Logistic Regression using Titanic Ship Data
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A6.pdf">LAB 06</a> : Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+
+<a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A7.pdf">LAB 07</a> : Implement Support Vector Machine using Breast Cancer Data
 # Lab Code Notebooks
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab01.ipynb">LAB 01</a>
