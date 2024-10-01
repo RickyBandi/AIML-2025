@@ -14,6 +14,10 @@
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A6.pdf">LAB 06</a> : Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A7.pdf">LAB 07</a> : Implement Support Vector Machine using Breast Cancer Data
+
+<a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A8.pdf">LAB 08</a> : Implement Decision Tree Classifier using Lending Club Data
+
+<a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A9.pdf">LAB 09</a> : Implement Random Forest Ensemble Classifier using Lending Club Data
 # Lab Code Notebooks
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab01.ipynb">LAB 01</a>
