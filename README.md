@@ -35,3 +35,5 @@
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab07.ipynb">LAB 07</a>
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab08.ipynb">LAB 08</a>
+
+<a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab09.ipynb">LAB 09</a>
