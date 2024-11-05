@@ -19,7 +19,7 @@
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A9.pdf">LAB 09</a> : Implement Random Forest Ensemble Classifier using Lending Club Data
 
-<a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A10.pdf">LAB 08</a> : Implement K-Means Clustering using Iris Data
+<a href="https://github.com/2303A51639/AIML-2025/blob/main/AIML_A10.pdf">LAB 10</a> : Implement K-Means Clustering using Iris Data
 # Lab Code Notebooks
 
 <a href="https://github.com/2303A51639/AIML-2025/blob/main/Lab01.ipynb">LAB 01</a>
